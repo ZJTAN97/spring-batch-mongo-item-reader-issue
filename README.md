@@ -163,7 +163,7 @@ document from the database does not conform to the class type provided.
 
 **Environment**
 
-- JDK 21
+- JDK 17
 - spring batch 5.0.3
 
 **Expected behavior**
